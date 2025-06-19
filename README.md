@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Movie Recommender Banner">
+</p>
+
 # 🎬 Movie Recommender System (Content-Based)
 
 This is a simple and effective movie recommendation system that suggests similar movies based on content features like cast, director, genre, and keywords. It uses natural language processing (NLP) and cosine similarity to find related titles from a dataset of 4800+ movies.
