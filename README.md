@@ -46,8 +46,7 @@ Recommended Movies:
 bash
 
 movie-recommender/
-├── data/
-│   └── movie_dataset.csv       # Dataset used for recommendations
+└── movie_dataset.csv       # Dataset used for recommendations
 ├── recommender.py              # Main Python script
 ├── README.md                   # This file
 └── requirements.txt            # Python dependencies
