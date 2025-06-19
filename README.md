@@ -59,5 +59,17 @@ pandas
 numpy
 scikit-learn
 
+🔮 Future Improvements
+Replace CountVectorizer with TF-IDFVectorizer for better results
+
+Add fuzzy matching for better title recognition
+
+Build a web UI using Flask or Streamlit
+
+Combine with personality-based neural recommendations
+
+Use OpenAI embeddings for semantic-level similarity
+
 🙋‍♂️ Author
 Made by Daksh Perswal
+https://github.com/Daksh1802
